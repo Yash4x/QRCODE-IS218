@@ -51,11 +51,12 @@ python -m pytest --cov=main --cov-report=term-missing
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-/home/yash1x/new/improved-qr-docker-2024/qr_codes/QRCode_20251023215903.png
+![QR Code Example](qr_codes/QRCode_20251023215903.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
 
-PUT YOUR LOG IMAGE HERE
+![Output Example](qr_codes/Screenshot 2025-10-23 182405.png)
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
